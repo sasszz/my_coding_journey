@@ -12,3 +12,5 @@ By the end, I had a fully functional If/Else If/Else statement where I could ent
 It was a surreal moment to conquer a topic I was having issues with and also have a functional piece of code. I have always been intimidated by coding, but I’m starting to realize that coding is a combination of creative problem solving, and iterating the work of others. 
 
 If you have a moment, check out Alex Lee’s Youtube channel! And if you have another moment, check out the video demonstration of the code I made! We're taking small steps, but at least the journey is beginning. #codingbootcamp #womenwhocode #coinbase18 #javascript
+
+<img src="assets/day3.mov" alt="Printing Hello World to Console">
