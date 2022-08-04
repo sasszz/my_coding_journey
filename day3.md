@@ -13,4 +13,4 @@ It was a surreal moment to conquer a topic I was having issues with and also hav
 
 If you have a moment, check out Alex Lee’s Youtube channel! And if you have another moment, check out the video demonstration of the code I made! We're taking small steps, but at least the journey is beginning. #codingbootcamp #womenwhocode #coinbase18 #javascript
 
-<img src="assets/day3.mov" alt="Printing Hello World to Console">
+<img src="assets/day3.mov" alt="Video Demo of Javascript For Loops">
