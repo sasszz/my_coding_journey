@@ -34,4 +34,4 @@ To solve the puzzle, tell me:
 
 Comment: The following is a screenshot of the whiteboard my group collaborated on in Zoom! Beware, the answer is inside!
 
-<img src="assets/day4.jpeg" alt="Printing Hello World to Console">
+<img src="assets/day4.png" alt="The Zebra Puzzle Zoom Whiteboard">
